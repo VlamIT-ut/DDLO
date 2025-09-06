@@ -1,0 +1,13 @@
+# Core scientific libraries
+numpy>=1.21
+scipy>=1.7
+
+# Deep Learning framework
+torch>=2.0
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.11
+
+# Data handling (nếu dùng MUMT bản gốc có pandas)
+pandas>=1.3
